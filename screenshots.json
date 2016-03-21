@@ -1,0 +1,42 @@
+{
+	viewports = [
+		{
+			width: 1680,
+			height: 951
+		},
+		{
+			width: 1680,
+			height: 951
+		},
+		{
+			width: 1680,
+			height: 951
+		},
+		{
+			width: 1680,
+			height: 951
+		}		
+	],
+	urls: [
+		{
+			name: whysr-webapp-home-1600x951.jpg,
+			url: 'https://www.whysr.com/home'
+		},
+		{
+			name: whysr-webapp-all-campaigns-1600x951.jpg,
+			url: 'https://app.why.sr/campaigns'
+		},
+		{
+			name: whysr-webapp-all-brands-1600x951.jpg,
+			url: 'https://app.why.sr/brands'
+		},
+		{
+			name: whysr-webapp-single-campaign-links-1600x951.jpg,
+			url: 'https://app.why.sr/campaigns#300'
+		},
+		{
+			name: whysr-webapp-create-campaign-1600x951.jpg,
+			url: 'https://app.why.sr/campaigns/create'
+		}	
+	]
+}
